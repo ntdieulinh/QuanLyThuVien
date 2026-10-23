@@ -25,6 +25,7 @@ public class BTT2 {
        
        System.out.println("Ho ten cua ban la: " + hoTen);
        
+       System.out.println("hello work");
     }
     
 }
